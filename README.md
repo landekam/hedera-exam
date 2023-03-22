@@ -1,0 +1,1 @@
+This repository is for hedera certification exam
