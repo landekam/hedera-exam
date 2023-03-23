@@ -1,0 +1,11 @@
+The new account info :  0.0.3907323
+task-5-multi-signature.js:15
+Multiple account balance 20 ℏ HBar, other account balance 530 ℏ
+task-5-multi-signature.js:56
+Transaction transfer failed due to signature threshold not reached
+task-5-multi-signature.js:32
+Multiple account balance 20 ℏ HBar, other account balance 530 ℏ
+task-5-multi-signature.js:56
+Transaction status:  SUCCESS
+task-5-multi-signature.js:47
+Multiple account balance 10 ℏ HBar, other account balance 540 ℏ

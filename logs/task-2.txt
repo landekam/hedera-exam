@@ -1,0 +1,28 @@
+Created NFT with Token ID: 0.0.3907270 
+
+task-2-token-service.js:58
+Created NFT 0.0.3907270 with serial: 1 
+
+task-2-token-service.js:77
+Created NFT 0.0.3907270 with serial: 2 
+
+task-2-token-service.js:77
+Created NFT 0.0.3907270 with serial: 3 
+
+task-2-token-service.js:77
+Created NFT 0.0.3907270 with serial: 4 
+
+task-2-token-service.js:77
+Created NFT 0.0.3907270 with serial: 5 
+
+task-2-token-service.js:77
+{newlyMintedNfts: Array(5), supplyKey: 'e81e552a52871b32bf5b27d0972b6ab4ecfe501e0443a91fa44e2c0bff4937c4'}
+task-2-token-service.js:138
+- NFT association with Account3: SUCCESS
+
+- NFT transfer from Treasury to Account3: SUCCESS 
+
+task-2-token-service.js:152
+- Treasury balance: 4 NFTs of ID 0.0.3907270
+task-2-token-service.js:155
+- Account3 balance: 1 NFTs of ID 0.0.3907270
