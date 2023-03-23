@@ -1,9 +1,5 @@
 The newly created topic ID is: 0.0.3907338
-task-6-consensus.js:21
 Message receipt:
-task-6-consensus.js:34
 {"status":{"_code":22},"accountId":null,"fileId":null,"contractId":null,"topicId":null,"tokenId":null,"scheduleId":null,"exchangeRate":{"hbars":30000,"cents":183715,"expirationTime":"2023-03-23T13:00:00.000Z","exchangeRateInCents":6.123833333333334},"topicSequenceNumber":{"low":1,"high":0,"unsigned":false},"topicRunningHash":{"0":230,"1":228,"2":96,"3":59,"4":216,"5":126,"6":182,"7":227,"8":154,"9":182,"10":130,"11":39,"12":158,"13":109,"14":217,"15":100,"16":10,"17":7,"18":177,"19":240,"20":164,"21":105,"22":31,"23":111,"24":188,"25":30,"26":193,"27":240,"28":75,"29":1,"30":97,"31":1,"32":237,"33":183,"34":193,"35":28,"36":202,"37":110,"38":85,"39":176,"40":106,"41":3,"42":107,"43":30,"44":137,"45":95,"46":176,"47":116},"totalSupply":{"low":0,"high":0,"unsigned":false},"scheduledTransactionId":null,"serials":[],"duplicates":[],"children":[]}
-task-6-consensus.js:35
 The message transaction status is: SUCCESS
-task-6-consensus.js:37
 Link to topic: https://hashscan.io/testnet/topic/0.0.3907338
